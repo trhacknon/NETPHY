@@ -44,9 +44,10 @@ AVAILABLE FOR
 >> pip install requests
 >> pip3 install requests
 >> rm -rf NETPHY
->> git clone https://github.com/trhacknon/NETPHY
+>> ```git clone https://github.com/trhacknon/NETPHY```
 >> cd NETPHY
->> ls to check available scripts -- use python3 to run e.g python3 netphy.py
+>> ls to check available scripts -- use python3 to run e.g 
+>> python3 netphy.py
 ```
 # CAUTION
 ```
