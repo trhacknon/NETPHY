@@ -3,17 +3,17 @@
 
 _Social buttons_
 
-[![shade234sherif - NETPHY ](https://img.shields.io/static/v1?label=shade234sherif&message=NETPHY+&color=blue&logo=github)](https://github.com/shade234sherif/NETPHY  "Go to GitHub repo")
-[![stars - NETPHY ](https://img.shields.io/github/stars/shade234sherif/NETPHY?style=social)](https://github.com/shade234sherif/NETPHY )
-[![forks - NETPHY ](https://img.shields.io/github/forks/shade234sherif/NETPHY?style=social)](https://github.com/shade234sherif/NETPHY )
+[![trhacknon- NETPHY ](https://img.shields.io/static/v1?label=trhacknon&message=NETPHY+&color=blue&logo=github)](https://github.com/trhacknon/NETPHY  "Go to GitHub repo")
+[![stars - NETPHY ](https://img.shields.io/github/stars/trhacknon/NETPHY?style=social)](https://github.com/trhacknon/NETPHY )
+[![forks - NETPHY ](https://img.shields.io/github/forks/trhacknon/NETPHY?style=social)](https://github.com/trhacknon/NETPHY )
 
 
 _Repo metadata_
 
 
-[![GitHub release](https://img.shields.io/github/release/shade234sherif/NETPHY?include_prereleases=&sort=semver&color=blue)](https://github.com/shade234sherif/NETPHY/releases/)
+[![GitHub release](https://img.shields.io/github/release/trhacknon/NETPHY?include_prereleases=&sort=semver&color=blue)](https://github.com/trhacknon/NETPHY/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
-[![issues - NETPHY ](https://img.shields.io/github/issues/shade234sherif/NETPHY )](https://github.com/shade234sherif/NETPHY/issues)
+[![issues - NETPHY ](https://img.shields.io/github/issues/trhacknon/NETPHY )](https://github.com/trhacknon/NETPHY/issues)
 
 AVAILABLE FOR 
 ```
@@ -44,7 +44,7 @@ AVAILABLE FOR
 >> pip install requests
 >> pip3 install requests
 >> rm -rf NETPHY
->> git clone https://github.com/shade234sherif/NETPHY
+>> git clone https://github.com/trhacknon/NETPHY
 >> cd NETPHY
 >> ls to check available scripts -- use python3 to run e.g python3 netphy.py
 ```
@@ -57,7 +57,7 @@ AVAILABLE FOR
 
 ```
 # LAST WORDS
->> feedbacks and updates here :www.facebook.com/cyberhacks6
- CYBERNETICS            C73eERN3TICc6
+>> feedbacks and updates here :www.facebook.com/
+ CYBERNETICS            trhacknon
 
 MADE WITH �🉐 ON GITHUB
